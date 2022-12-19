@@ -1,0 +1,4 @@
+
+========================= Interface ===================================
+Fields in an interface are implicitly public, static and final.
+
